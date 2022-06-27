@@ -1,0 +1,244 @@
+.logo{
+    background-color:blue;
+    border-radius:50px;
+    width:30px;
+    height:30px;
+}
+.header{
+    display:flex;
+
+}
+.logo-title{
+    display: flex;
+    gap:10px;
+    margin-top:20px;
+    margin-left: 100px;
+}
+.nav{
+    margin-top:10px;
+    margin-left:1px;
+   
+
+}
+.nav a{
+    text-decoration: none;
+    font-size: 18px;
+    margin: 20px;
+    color:black;
+}
+.nav a.active_class{
+    color:blue;
+    border-bottom:2px solid red;
+
+}
+.SignUp-btn{
+    background-color: blue;
+    border-radius: 50px;
+    width:150px;
+    height:30px;
+    border:none;
+    color:white;
+}
+/*==================first of start code=========================*/
+.video-border{
+    border: 1px solid gray;
+    width:400px;
+    height:200px;
+    padding-top: 60px;
+    padding-left: 180px;
+}
+.play{
+     
+     font-size: 44px;
+
+}
+.first-header{
+    margin:100px 0px 0px 100px;
+}
+.video-play{
+    margin-left:60px;
+    margin-bottom: 30px;
+}
+.Start-btn{
+    background-color: blue;
+    border-radius: 50px;
+    border:0px;
+    width:200px;
+    padding:10px;
+}
+.Start-btn a{
+    text-decoration: none;
+    color:white;
+
+}
+.Start-btn a:hover{
+    color:black;
+    transition: 2s;
+}
+.bg{
+    background-color: aliceblue;
+}
+.with-expertia{
+    text-align: center;
+    margin-top:50px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.widely{
+    font-size: 24px;
+    color:blue;
+}
+.Source{
+    font-size: 24px;
+    font-weight: bold;
+    margin:10px;
+}
+/*========================= start second page here==================*/
+.custom-style{
+    background-color: blue;
+    
+}
+.para-border{
+    border-left: 2px solid blue;
+    height:auto;
+    
+}
+/*=======================Start page here===============*/
+.Time-widest{
+    font-size: 32px;
+    color:blue
+}
+.Services{
+    font-size: 32px;
+    color:green;
+}
+.hire{
+    text-align: center;
+}
+ul li{
+    list-style: none;
+
+}
+ul li a{
+    text-decoration: none;
+    color:black;
+}
+hr{
+    margin-top:40px;
+    margin-left: 300px;
+    background-color: brown;
+    padding:2px;
+    width:700px;
+}
+h4{
+    border-bottom: 2px solid blue;
+    width:100px;
+    margin-left: 30px;
+}
+.SingnUp{
+    background-color: aliceblue;
+    box-shadow: 2px 6px 10px gray;
+    width:300px;
+    height:400px
+}
+.tohire{
+    margin:30px 50px 10px 50px;
+}
+.great{
+    padding-top:50px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+.singnUp-center{
+    display:flex;
+    justify-content: center;
+}
+.nav-form a{
+    text-decoration: none;
+    font-size: 18px;
+    margin: 20px;
+    color:black;
+    
+}
+.nav-form li{
+    list-style: none;
+    margin-top: 30px;
+}
+.nav-form a.active_class{
+    border-left: 2px solid red;
+    color:white;
+}
+.hight-nav{
+    width:200px;
+    height:700px;
+}
+.logo-title-2{
+    display: flex;
+    gap:10px;
+    padding-top: 20px;
+    margin:20px;
+}
+.logo-2{
+    background-color: blue;
+    border-radius: 50px;
+    width:30px;
+    height:30px;
+}
+.Company{
+    display:flex;
+    justify-content:space-between;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.bg-campany{
+    background-color: aliceblue;
+    width:1060px;
+    height:100px;
+
+}
+.text-input{
+    display: flex;
+    gap:400px;
+    margin-left:30px;
+    
+    
+}
+.text-input input{
+    border-radius: 50px;
+    margin-top: 50px;
+    border:0px;
+    width:400px;
+    padding:10px;
+    outline: none;
+    border:1px solid gray;
+
+}
+.file-upload{
+    border:1px solid gray;
+    width:400px;
+    height:200px;
+
+
+}
+.load{
+    border:1px dotted gray;
+    width:200px;
+    height:100px;
+    padding-left: 90px;
+    padding-top: 20px;
+    margin-left: 80px;
+}
+.file-header{
+    display: flex;
+    margin-top: 30px;
+    margin-left:100px;
+}
+textarea{
+    margin-top: 30px;
+    margin-left: 100px;
+    width:800px;
+    height: 200px;
+}
+.left-btn{
+    float:right;
+}
